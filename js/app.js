@@ -72,8 +72,8 @@ Player.prototype.render = function() {
     ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
 };
 
-Player.prototype.handleInput = function(keyPress) {
-    switch (keyPress) {
+Player.prototype.handleInput = function(direction) {
+    switch (direction) {
         case 'left':
             this.x -= this.speed + 50;
             break;
