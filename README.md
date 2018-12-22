@@ -1,4 +1,4 @@
-# [Classic Arcade Game Clone]
+# Classic Arcade Game Clone
 
 ### Project part of the [**Front-End Web Developer Nanodegree Udacity**]
 
