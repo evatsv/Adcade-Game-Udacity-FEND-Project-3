@@ -1,9 +1,6 @@
-# [Classic Arcade Game Clone](https://.........../classic-Arcade-game-clon/ "live sample the game")
+# [Classic Arcade Game Clone]
 
-
-
-
-project part of the [**Front-End Web Developer Nanodegree Udacity**]
+### Project part of the [**Front-End Web Developer Nanodegree Udacity**]
 
 ### Code with: 
 
@@ -23,9 +20,9 @@ Thanks to:
 https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js 
 https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js 
 http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
-for sharing their code for the rest to get inspiration 
+for sharing their code :)
 
-##### [Play the game here!]
-//Github link
+##### [You can play the game here!]
+//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
 
 
