@@ -73,21 +73,19 @@ Player.prototype.render = function() {
 };
 
 Player.prototype.handleInput = function(keyPress) {
-    if (keyPress == 'left' &&
-        this.x > 0) {
-        this.x -= 100;
-    }
-    if (keyPress == 'right' &&
-        this.x < 400) {
-        this.x += 100;
-    }
-    if (keyPress == 'up' &&
-        this.y > 3) {
-        this.y -= 80;
-    }
-    if (keyPress == 'down' &&
-        this.y < 400) {
-        this.y += 80;
+    switch (keyPress) {
+        case 'left':
+            this.x -= this.speed + 50;
+            break;
+        case 'up':
+            this.y -= this.speed + 30;
+            break;
+        case 'right':
+            this.x += this.speed + 50;
+            break;
+        case 'down':
+            this.y += this.speed + 30;
+            break;
     }
 };
 
@@ -103,8 +101,8 @@ var player = new Player(200, 380, 50);
 var enemyInitialYPosition = [50, 140, 220];
 var enemy;
 
-enemyInitialYPosition.forEach(function(positionY) {
-    enemy = new Enemy(0, positionY, 100 + Math.floor(Math.random() * 512));
+enemyInitialYPosition.forEach(function(posY) {
+    enemy = new Enemy(0, posY, 100 + Math.floor(Math.random() * 512));
     allEnemies.push(enemy);
 });
 
