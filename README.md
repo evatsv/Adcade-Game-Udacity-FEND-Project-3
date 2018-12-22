@@ -1,6 +1,6 @@
 # Classic Arcade Game Clone
 
-### Project part of the [**Front-End Web Developer Nanodegree Udacity**]
+### Project part of the Udacity Front-End Web Developer Nanodegree 
 
 ### Code with: 
 
