@@ -23,7 +23,6 @@ http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
 for sharing their code :)
 
 #####  You can play the game here!
-Running
 Visit //https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3 OR open index.html in browser (after cloning).
 
 
