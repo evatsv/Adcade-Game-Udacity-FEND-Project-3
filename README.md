@@ -21,7 +21,10 @@ https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/j
 http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
 for sharing their code :)
 
-#####  You can play the game here!
-//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
+##### Launch 
+
+Download zip file and extract all folders to a location.//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
+Open root folder and double click index.html file.
+
 
 
