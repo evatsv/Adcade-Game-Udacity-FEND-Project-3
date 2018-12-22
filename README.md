@@ -9,11 +9,10 @@
 + javaScript
 
 ### How to play the game:
+- You are the main character
+- Using the arrows of your keyboard ⬅️⬆️⬇️➡️ move in different directions
+- Your goal is to reach the river without colliding with any bug which appears in different speed.
 
-+ You are the main character
-+ Using the arrows of your keyboard ⬅️⬆️⬇️➡️ move in different directions
-+ Objective: Get to the water from the starting point
-+ Avoid collision with the bugs that move horizontally, otherwise you will go back to starting point
 
 ### Acknowledgments:
 Thanks to:
@@ -23,7 +22,6 @@ http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
 for sharing their code :)
 
 #####  You can play the game here!
-Visit //https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3 OR open index.html in browser (after cloning).
-
+//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
 
 
