@@ -15,15 +15,15 @@
 
 ### Launch 
 
-Download zip file and extract all folders to a location.//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
-Open root folder and double click index.html file.
++ Download zip file and extract all folders to a location.//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
++ Open root folder and then open the index.html file.
 
 
 ##### Acknowledgments:
 Thanks to:
-https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js 
-https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js 
-http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
+* https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js 
+* https://github.com/brenopolanski/udacity-classic-arcade-game-clone/blob/master/js/app.js 
+* http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
 for sharing their code :)
 
 
