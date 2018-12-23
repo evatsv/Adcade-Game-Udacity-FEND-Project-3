@@ -19,11 +19,7 @@
 * Open root folder and then open the index.html file.
 
 
-#### Acknowledgments:
-Thanks to:
-* https://github.com/jshanks24/Udacity-Arcade-Game/blob/master/js/app.js  
-* http://kurmivivek295.github.io/udacity-classic-arcade-game-clone/app.js
-for sharing their code :)
+
 
 
 
