@@ -15,7 +15,7 @@
 
 ### Launch 
 
-* Download zip file and extract all folders to a location.//https://github.com/evatsv/Adcade-Game-Udacity-FEND-Project-3
+* Download zip file and extract all folders to a location.//https://github.com/evatsv/Adcade-game
 * Open root folder and then open the index.html file.
 
 
